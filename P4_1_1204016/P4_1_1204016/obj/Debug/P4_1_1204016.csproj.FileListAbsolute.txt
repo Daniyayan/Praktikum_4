@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\P4_1_1204016\P4_1_1204016\bin\Debug\P4_1_1204016.exe.config
+C:\Users\LENOVO\source\repos\P4_1_1204016\P4_1_1204016\bin\Debug\P4_1_1204016.exe
+C:\Users\LENOVO\source\repos\P4_1_1204016\P4_1_1204016\bin\Debug\P4_1_1204016.pdb
+C:\Users\LENOVO\source\repos\P4_1_1204016\P4_1_1204016\obj\Debug\P4_1_1204016.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\P4_1_1204016\P4_1_1204016\obj\Debug\P4_1_1204016.Form1.resources
+C:\Users\LENOVO\source\repos\P4_1_1204016\P4_1_1204016\obj\Debug\P4_1_1204016.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\P4_1_1204016\P4_1_1204016\obj\Debug\P4_1_1204016.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\P4_1_1204016\P4_1_1204016\obj\Debug\P4_1_1204016.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\P4_1_1204016\P4_1_1204016\obj\Debug\P4_1_1204016.exe
+C:\Users\LENOVO\source\repos\P4_1_1204016\P4_1_1204016\obj\Debug\P4_1_1204016.pdb
